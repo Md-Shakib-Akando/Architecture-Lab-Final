@@ -1,7 +1,7 @@
 # Architecture Lab Final Project
 An implementation and simulation of core CPU components using Logisim. This project covers the foundational building blocks of computer architecture, including Clock Control Logic, a 4x1-bit Register File, and a 256-Byte Random Access Memory (RAM) module.
 
-## 📌 Table of Contents
+
 
   * 1. Clock Gating & Selection Circuit
   * 2. 4x1-bit Register File
